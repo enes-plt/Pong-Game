@@ -12,3 +12,5 @@ Random class is used for ball initialization, ensuring varied gameplay. Collisio
 
 In summary, this project integrates Java's object-oriented approach, GUI development with Swing, and multi-threading to deliver an engaging and dynamic Pong game.
 
+Run the PongGame class and have fun 🚀
+
